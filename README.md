@@ -1,5 +1,5 @@
 # SQLAlchemy-Challenge
- Climate database analysis using SQLAlchemy and ORM
+ Climate database analysis using SQLAlchemy and ORM.
 
 
 ## Summary
